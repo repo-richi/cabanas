@@ -1,0 +1,32 @@
+.bg-verde{
+	background-color: #106736;
+}
+
+.logo{
+	width: 200px;
+	height: 200px;
+}
+
+.tituloCabana{
+    font-style: bold;
+    color: #2F7DB0;
+}
+
+.imagenServicio{
+    width: 100%;
+}
+
+.espacio{
+    margin-bottom: 20px;
+}
+
+/*Para el carrousel*/
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
